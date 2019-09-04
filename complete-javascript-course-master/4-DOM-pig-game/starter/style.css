@@ -1,7 +1,17 @@
 /**********************************************
 *** GENERAL
 **********************************************/
-
+.final-score{
+    position:absolute;
+    left:50%;
+    transform:translate(-50%);
+    top:520px;
+    color:#555;
+    font-size:18px;
+    font-family: 'Lato';
+    padding:10px;
+    width:160px;
+}
 * {
     margin: 0;
     padding: 0;
